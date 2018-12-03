@@ -12,5 +12,8 @@ public class GitTest{
 		public String toString(){
 			return x;
 		}
+		public void setString(String x){
+			this.x = x;
+		}
 
 }
